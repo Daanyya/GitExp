@@ -1,2 +1,1 @@
-;)
-Now it's a simple file with txt
+second dev
